@@ -46,21 +46,25 @@ El siguiente repositorio cuenta con ejercicios de JavaScript arealizados el día
    Instrucciones:
       Instala lodash usando npm: npm install lodash.
       Escribe una función interseccionYOrdenar que reciba dos arrays y devuelva un array con la intersección de ambos, ordenado de manera ascendente.
+     
 22: Uso de axios para Realizar Solicitudes HTTP
    - Descripción: Utiliza el paquete axios para realizar una solicitud GET a una API pública y obtener datos.
    Instrucciones:
       Instala axios 
       Escribe una función obtenerUsuarios que haga una solicitud GET a "https://jsonplaceholder.typicode.com/users" y muestre los nombres de los usuarios en la consola.
+     
 23: Uso de moment para Manipulación de Fechas
    - Descripción: Utiliza el paquete moment para manipular fechas y calcular la diferencia entre dos fechas.
    Instrucciones:
       Instala moment 
       Escribe una función diferenciaDias que reciba dos fechas en formato YYYY-MM-DD y devuelva la diferencia en días entre ellas.
+     
 24: Uso de chalk para Colorear la Salida en la Consola
    - Descripción: Utiliza el paquete chalk para colorear la salida de texto en la consola.
    Instrucciones:
       Instala chalk 
       Escribe una función imprimirMensajeColoreado que reciba un mensaje y un color, y luego imprima el mensaje en la consola con el color especificado.
+     
 25: Uso de bcrypt para Encriptar Contraseñas
    - Descripción: Utiliza el paquete bcrypt para encriptar una contraseña.
    Instrucciones:
